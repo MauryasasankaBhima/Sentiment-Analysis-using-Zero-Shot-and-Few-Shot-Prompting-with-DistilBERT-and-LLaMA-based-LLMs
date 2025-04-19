@@ -1,0 +1,2 @@
+# Sentiment-Analysis-using-Zero-Shot-and-Few-Shot-Prompting-with-DistilBERT-and-LLaMA-based-LLMs
+This project demonstrates the use of **Large Language Models (LLMs)** for performing **sentiment analysis** on textual data using both **zero-shot** and **few-shot prompting**. It explores two powerful models—**DistilBERT** for lightweight transformer-based classification, and **LLaMA** for few-shot conversational-style inference.
